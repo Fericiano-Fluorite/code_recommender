@@ -1,0 +1,8 @@
+revfinder-master\android.json
+Scores for the project: Top-K:  0.8884758364312267  MRR:  0.5720124456269138
+revfinder-master\libreoffice.json
+Scores for the project: Top-K:  0.7757575757575758  MRR:  0.427732458220309
+revfinder-master\openstack.json
+Scores for the project: Top-K:  0.8109243697478992  MRR:  0.4512646914355627
+revfinder-master\qt.json
+Scores for the project: Top-K:  0.4984251968503937  MRR:  0.29852426512334046
