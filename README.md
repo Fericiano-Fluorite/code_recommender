@@ -1,14 +1,8 @@
 # code_recommender
 ===================================================
 1. What is this? <br/>
-  This is a code recommender training/testing demo based on the paper <br/>
-  >@inproceedings{ThongtanunamSANER2015, <br>
-  >>Author={Patanamon Thongtanunam and  Chakkrit Tantithamthavorn and  Raula Gaikovina Kula and  Norihiro Yoshida and  Hajimu Iida and  Ken-ichi Matsumoto}, <br>
-  >>Title = {Who Should Review My Code? A File Location-Based Code-Reviewer Recommendation Approach for Modern Code Review}, <br>
-  >>Booktitle = {the 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER)}, <br>
-  >>Pages = {to be appear}, <br>
-  >>Year = {2015} <br>
-  >}
+  This is a code recommender training/testing demo based on the following paper <br/>
+  `Thongtanunam P, Tantithamthavorn C, Kula R G, et al. Who should review my code? A file location-based code-reviewer recommendation approach for Modern Code Review[C]// IEEE, International Conference on Software Analysis, Evolution and Reengineering. IEEE, 2015:141-150.`
 ---------------------------------------------------
 2. How to use it? <br/>
   Run main.py
